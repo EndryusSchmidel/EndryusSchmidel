@@ -24,5 +24,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER**. Atualmen
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## 📌 Projetos em Destaque
+
+- **🏥 Sistema de Gestão de Patrimônio Hospitalar:** Backend robusto em Java/Spring Boot com auditoria via Hibernate Envers.
+- **☁️ AWS Cloud Integration:** Estudos e implementação de deploys e armazenamento utilizando serviços Amazon Web Services.
+- **⚛️ Frontend Hospitalar:** Dashboard desenvolvido em React para consumo da API de ativos.
+
+- ## 📫 Como me encontrar
+
+- 📧 **Email:** endryusschmidel@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/endryus-schmidel/
+
 ---
 *“Sempre em busca de transformar lógica em soluções reais.”*
