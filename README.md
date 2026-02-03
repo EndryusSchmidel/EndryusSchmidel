@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Java Spring Boot em formação | Estudante de ADS
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER**. Atualmente, estou aproveitando minhas férias para focar 100% em me tornar um desenvolvedor Full Stack, unindo a robustez do **Java/Spring Boot** no Backend com a agilidade do **React** no Frontend.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER**. Atualmente, estou focado 100% em me tornar um desenvolvedor Full Stack, unindo a robustez do **Java/Spring Boot** no Backend com a agilidade do **React** no Frontend.
 
 - 🏥 **Projeto Atual:** Sistema de Gestão de Patrimônio Hospitalar com auditoria automatizada.
 - 🚀 **Objetivo:** Minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior.
