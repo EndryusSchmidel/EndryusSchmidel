@@ -32,7 +32,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER**. Atualmen
 
 - ## 📫 Como me encontrar
 
-- 📧 **Email:** endryusschmidel@gmail.com
+- 📧 **Email:** endryus.dev@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/endryus-schmidel/
 
 ---
