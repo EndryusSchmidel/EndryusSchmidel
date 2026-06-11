@@ -1,8 +1,7 @@
-# # 🚀 Endryus Schmidel | Software Engineer Intern
-### **Foco em Sistemas Críticos, Auditoria e Alta Disponibilidade**
+# # Endryus Schmidel | Software Engineer & AppSec Specialist
+### **Engenheiro de Software com forte atuação em Application Security (AppSec) e Co-fundador na Verbinden.**
 
-Sou um desenvolvedor em transição de carreira, focado no ecossistema **Java/Spring** e **React**. Atualmente, dedico minha energia na construção de soluções onde segurança de dados (LGPD) e rastreabilidade não são apenas requisitos, mas pilares fundamentais.
-
+Atualmente focado na construção de sistemas robustos e arquiteturas resilientes onde segurança de dados (LGPD), isolamento de multi-tenancy e rastreabilidade são pilares nativos.
 ---
 
 ## 🏥 Projeto em Destaque: **HMS - Hospital Management System**
