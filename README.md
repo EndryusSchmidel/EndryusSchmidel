@@ -1,7 +1,6 @@
 # # Endryus Schmidel | Software Engineer & AppSec Specialist
 ### **Engenheiro de Software com forte atuação em Application Security (AppSec) e Co-fundador na Verbinden.**
 
-Atualmente focado na construção de sistemas robustos e arquiteturas resilientes onde segurança de dados (LGPD), isolamento de multi-tenancy e rastreabilidade são pilares nativos.
 ---
 
 ## 🚀 Atividade Atual & Startup: **Beauty Hub (B2B SaaS Multi-tenant)**
