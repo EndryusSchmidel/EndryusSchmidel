@@ -4,7 +4,21 @@
 Atualmente focado na construção de sistemas robustos e arquiteturas resilientes onde segurança de dados (LGPD), isolamento de multi-tenancy e rastreabilidade são pilares nativos.
 ---
 
-## 🏥 Projeto em Destaque: **HMS - Hospital Management System**
+## 🚀 Atividade Atual & Startup: **Beauty Hub (B2B SaaS Multi-tenant)**
+*Plataforma robusta para gestão, saúde financeira, automação e controle de no-show para clínicas e salões de beleza.*
+
+Atualmente liderando a engenharia de frontend e a arquitetura de segurança de aplicações (AppSec) do principal produto comercial da **Verbinden**. O sistema está sendo construído sob rígidos padrões de defesa em profundidade e conformidade de privacidade de dados.
+
+### **Destaques da Engenharia & Segurança:**
+- **Isolamento de Tenants (Multi-tenancy):** Modelagem lógica estruturada no PostgreSQL para garantir a segregação e isolamento completo de dados confidenciais de clientes na camada de persistência.
+- **Defesa de Aplicação (AppSec):** Integração segura de APIs RESTful utilizando Java 24 e Spring Boot 3.4.5 com Spring Security (JWT) e mitigação ativa contra vetores críticos do OWASP Top 10 (como BOLA e IDOR).
+- **Interface e Usabilidade:** Frontend modular de alta performance desenvolvido com React 18, TypeScript e Tailwind v4 para interfaces de carregamento instantâneo e estado reativo.
+
+🔒 *Nota: Por se tratar de um produto de mercado proprietário e comercial, o repositório do código-fonte é privado e protegido sob propriedade intelectual da Verbinden.*
+
+---
+
+## 🏥 **HMS - Hospital Management System**
 *Sistema de Gestão de Patrimônio Hospitalar com Auditoria Crítica.*
 
 Este não é apenas um CRUD. É um sistema desenhado para conformidade com normas hospitalares e LGPD, focado em alta disponibilidade e integridade de dados.
