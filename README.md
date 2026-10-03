@@ -1,78 +1,39 @@
-# # Endryus Schmidel | Software Engineer & AppSec Specialist
-### **Engenheiro de Software com forte atuação em Application Security (AppSec) e Co-fundador na Verbinden.**
+# Endryus Schmidel
+
+Desenvolvedor full-stack (Java/Spring e React) e cofundador da [Verbinden Tecnologia](https://verbinden.com.br), no Rio de Janeiro.
+Construo sistemas onde segurança e controle de acesso fazem parte da arquitetura desde o início.
+
+[Portfólio](https://endryusschmidel.github.io/pt) · [LinkedIn](https://www.linkedin.com/in/endryus-schmidel/) · [endryus.dev@gmail.com](mailto:endryus.dev@gmail.com)
 
 ---
 
-## 🚀 Atividade Atual & Startup: **Beauty Hub (B2B SaaS Multi-tenant)**
-*Plataforma robusta para gestão, saúde financeira, automação e controle de no-show para clínicas e salões de beleza.*
+## O que faço hoje
 
-Atualmente liderando a engenharia de frontend e a arquitetura de segurança de aplicações (AppSec) do principal produto comercial da **Verbinden**. O sistema está sendo construído sob rígidos padrões de defesa em profundidade e conformidade de privacidade de dados.
+**Verbinden Tecnologia** · cofundador e desenvolvedor · desde março de 2026
+Desenvolvo com o meu sócio o **[Verbi Beauty](https://beauty.verbinden.com.br)**, sistema de gestão para salões, barbearias, esmalterias e estúdios: agendamento online com sinal por Pix, comissões calculadas por regra e agenda da equipe. Dividimos backend e frontend, e eu respondo pela camada de segurança da aplicação. Também conduzo os projetos da **[Agência Verbinden](https://verbinden.com.br/agencia)**, que cria sites sob medida e cuida de anúncios para profissionais e empresas de serviços.
+*O código do Verbi Beauty é privado.*
 
-### **Destaques da Engenharia & Segurança:**
-- **Isolamento de Tenants (Multi-tenancy):** Modelagem lógica estruturada no PostgreSQL para garantir a segregação e isolamento completo de dados confidenciais de clientes na camada de persistência.
-- **Defesa de Aplicação (AppSec):** Integração segura de APIs RESTful utilizando Java 24 e Spring Boot 3.4.5 com Spring Security (JWT) e mitigação ativa contra vetores críticos do OWASP Top 10 (como BOLA e IDOR).
-- **Interface e Usabilidade:** Frontend modular de alta performance desenvolvido com React 18, TypeScript e Tailwind v4 para interfaces de carregamento instantâneo e estado reativo.
+**Plugpix** · desenvolvedor de software pleno · desde junho de 2026
+Evolução de uma plataforma de telemedicina em produção.
 
-🔒 *Nota: Por se tratar de um produto de mercado proprietário e comercial, o repositório do código-fonte é privado e protegido sob propriedade intelectual da Verbinden.*
+## Segurança na prática
 
----
+- Autenticação e autorização com Spring Security, JWT e controle de acesso por função (RBAC)
+- Isolamento lógico de dados entre tenants no PostgreSQL
+- Rate limiting e mitigação de falhas de autorização (IDOR, BOLA) nas APIs REST
+- Aprimorando: PortSwigger Web Security Academy, Burp Suite, Nmap e o Google Cybersecurity Professional Certificate (em andamento)
 
-## 🏥 **HMS - Hospital Management System**
-*Sistema de Gestão de Patrimônio Hospitalar com Auditoria Crítica.*
+## Stack
 
-Este não é apenas um CRUD. É um sistema desenhado para conformidade com normas hospitalares e LGPD, focado em alta disponibilidade e integridade de dados.
+| Área | Tecnologias |
+|---|---|
+| Backend | Java · Spring Boot · Spring Security · JPA/Hibernate · Flyway · PostgreSQL |
+| Frontend | React · TypeScript · Tailwind · TanStack Query · Next.js |
+| Entrega e qualidade | Docker · GitHub Actions · Sentry · Cloudflare · Vitest · Playwright |
 
-### **Diferenciais Técnicos:**
-- **Auditoria de Dados (Compliance):** Implementação robusta do **Hibernate Envers**, permitindo o rastreio completo de quem alterou cada ativo e a recuperação de itens deletados acidentalmente.
-- **Segurança Avançada:** Autenticação Stateless via **JWT** com **RBAC** (Role-Based Access Control), garantindo que apenas usuários autorizados realizem operações críticas.
-- **Arquitetura SaaS Premium:** Frontend construído com **React + Vite**, utilizando uma arquitetura de CSS baseada em variáveis globais para suporte nativo a Dark Mode e performance superior.
-- **Dashboards Reativos:** Visualização de dados em tempo real com **Chart.js**, utilizando `MutationObserver` para sincronização de temas sem perda de performance.
+## Projetos públicos
 
-**[Ver Repositório do HMS](https://github.com/EndryusSchmidel/hospital-management-system) | [Acessar Demo Online](https://hospital-management-system-gilt-kappa.vercel.app/)**
-
----
-
-## 🛠 Tech Stack de Domínio
-
-### **Backend (The Core)**
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate_Envers-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-### **Frontend (The Experience)**
-![React](https://img.shields.io/badge/React_18-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Infra & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🧠 Princípios de Engenharia
-Sigo rigorosamente padrões que garantem a sustentabilidade do software:
-- **Clean Code & SOLID:** Código escrito para humanos, não apenas para máquinas.
-- **Auditoria por Padrão:** Todo dado crítico deve ser rastreável.
-- **Segurança First:** Proteção de rotas e sanitização de dados em todas as camadas.
-- **UX Hospitalar:** Interfaces limpas, rápidas e acessíveis para ambientes de alta pressão.
-
----
-
-## 📈 Estatísticas e Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/endryus-schmidel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:endryus.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-*“Engenharia de software não é sobre digitar código, é sobre resolver problemas complexos com soluções elegantes e seguras.”*
+- **[hospital-management-system](https://github.com/EndryusSchmidel/hospital-management-system)**: gestão de patrimônio hospitalar com trilha de auditoria (Hibernate Envers), JWT e RBAC. [Demo](https://hospital-management-system-gilt-kappa.vercel.app/)
+- **[conscientizar-phishing](https://github.com/EndryusSchmidel/conscientizar-phishing)**: plataforma de conscientização contra phishing para o setor administrativo do Hospital Municipal de São João de Meriti (atividade extensionista, UNINTER).
+- **[aws-ec2-devsecops-notes](https://github.com/EndryusSchmidel/aws-ec2-devsecops-notes)**: estudos de EC2, AMIs e EBS com foco em provisionamento seguro.
+- **[Anya-finances](https://github.com/EndryusSchmidel/Anya-finances)**: agente de IA generativa para saúde financeira (Bootcamp GenAI & Dados, Bradesco/DIO).
