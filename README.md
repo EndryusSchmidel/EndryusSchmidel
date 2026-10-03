@@ -1,6 +1,6 @@
 # Endryus Schmidel
 
-Desenvolvedor full-stack (Java/Spring e React) e cofundador da [Verbinden Tecnologia](https://verbinden.com.br), no Rio de Janeiro.
+Desenvolvedor full-stack (Java/Spring e React) e cofundador da [Verbinden Tecnologia](https://verbinden.com.br), no Rio de Janeiro.  
 Construo sistemas onde segurança e controle de acesso fazem parte da arquitetura desde o início.
 
 [Portfólio](https://endryusschmidel.github.io/pt) · [LinkedIn](https://www.linkedin.com/in/endryus-schmidel/) · [endryus.dev@gmail.com](mailto:endryus.dev@gmail.com)
@@ -9,11 +9,11 @@ Construo sistemas onde segurança e controle de acesso fazem parte da arquitetur
 
 ## O que faço hoje
 
-**Verbinden Tecnologia** · cofundador e desenvolvedor · desde março de 2026
+**Verbinden Tecnologia** · cofundador e desenvolvedor · desde março de 2026  
 Desenvolvo com o meu sócio o **[Verbi Beauty](https://beauty.verbinden.com.br)**, sistema de gestão para salões, barbearias, esmalterias e estúdios: agendamento online com sinal por Pix, comissões calculadas por regra e agenda da equipe. Dividimos backend e frontend, e eu respondo pela camada de segurança da aplicação. Também conduzo os projetos da **[Agência Verbinden](https://verbinden.com.br/agencia)**, que cria sites sob medida e cuida de anúncios para profissionais e empresas de serviços.
 *O código do Verbi Beauty é privado.*
 
-**Plugpix** · desenvolvedor de software pleno · desde junho de 2026
+**Plugpix** · desenvolvedor de software pleno · desde junho de 2026  
 Evolução de uma plataforma de telemedicina em produção.
 
 ## Segurança na prática
