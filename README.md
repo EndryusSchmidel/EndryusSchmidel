@@ -34,6 +34,6 @@ Evolução de uma plataforma de telemedicina em produção.
 ## Projetos públicos
 
 - **[hospital-management-system](https://github.com/EndryusSchmidel/hospital-management-system)**: gestão de patrimônio hospitalar com trilha de auditoria (Hibernate Envers), JWT e RBAC. [Demo](https://hospital-management-system-gilt-kappa.vercel.app/)
-- **[conscientizar-phishing](https://github.com/EndryusSchmidel/conscientizar-phishing)**: plataforma de conscientização contra phishing para o setor administrativo do Hospital Municipal de São João de Meriti (atividade extensionista, UNINTER).
+- **[conscientizar-phishing](https://github.com/EndryusSchmidel/conscientizar-phishing)**: plataforma de conscientização contra phishing para o setor administrativo do Hospital Municipal de São João de Meriti.
 - **[aws-ec2-devsecops-notes](https://github.com/EndryusSchmidel/aws-ec2-devsecops-notes)**: estudos de EC2, AMIs e EBS com foco em provisionamento seguro.
 - **[Anya-finances](https://github.com/EndryusSchmidel/Anya-finances)**: agente de IA generativa para saúde financeira (Bootcamp GenAI & Dados, Bradesco/DIO).
